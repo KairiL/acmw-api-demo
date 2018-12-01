@@ -1,0 +1,14 @@
+setup.py
+acmw_api_demo/__init__.py
+acmw_api_demo.egg-info/PKG-INFO
+acmw_api_demo.egg-info/SOURCES.txt
+acmw_api_demo.egg-info/dependency_links.txt
+acmw_api_demo.egg-info/not-zip-safe
+acmw_api_demo.egg-info/top_level.txt
+acmw_api_demo/bad_math_utils/__init__.py
+acmw_api_demo/bad_math_utils/bad_func.py
+acmw_api_demo/bad_math_utils/slow_math.py
+acmw_api_demo/bad_math_utils/tests/__init__.py
+acmw_api_demo/bad_math_utils/tests/test_slow_math.py
+acmw_api_demo/types/__init__.py
+acmw_api_demo/types/base_class.py

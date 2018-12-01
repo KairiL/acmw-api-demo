@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: acmw-api-demo
+Version: 1.0.0
+Summary: Tools for wasting time and figuring out how shit works
+Home-page: UNKNOWN
+Author: Kairi Alexis Lassard
+Author-email: Kairi.Lassard@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: learning tool utility tools utilities API APIs
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Intended Audience :: System Administrators
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: StudentsTopic :: Utilities
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: POSIX
